@@ -10,3 +10,7 @@ Tampilkan elemen ke - 3
 Ambil nilai elemen ke - 2 sampai elemen ke - 4
 
 Ambil elemen terakhir 
+
+
+
+![GAMBAR1](https://user-images.githubusercontent.com/115911604/203083897-255e9426-41ae-4a4f-85d3-616aeaa33128.png)
