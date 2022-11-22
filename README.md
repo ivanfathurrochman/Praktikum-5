@@ -25,4 +25,6 @@ Ubah elemen ke - 4 dengan elemen terakhi
 
 Ambil 2 bagian dari list pertama (A) dan jadikan list ke -2 (B)
 
-Tambah list B dengan nilai string Tambah list B dengan 3 nilai Gabungkan list B dengan
+Tambah list B dengan nilai string Tambah list B dengan 3 nilai Gabungkan list B dengan![gambar2](https://user-images.githubusercontent.com/115911604/203256880-84c519f4-053b-4dc9-87cf-52c90701f0f6.png)
+
+
