@@ -80,3 +80,11 @@ print('='*58) print('| No | \tNama\t | NIM | Tugas | UTS | UAS | Total |') print
 for i in range (len(NIM)): nm = '| %d. | \t%s\t' % (i+1, NAMA[i]) im = ' | %d' % NIM[i] tg = ' | %d' % Tugas[i] ut = ' | %d' % UTS[i] us = ' | %d' % UAS[i] ak = ' | %.2f' % Total[i] ov = ' |' overall = nm + im + tg + ut + us + ak + ov print(overall)
 
     break
+    
+    Hasil dari program yang telah dibuat ditampilkan/diekspresikan dan akan jadi seperti ini ketika dijalankan:
+
+# Tampilan Program
+
+![hhhh](https://user-images.githubusercontent.com/115911604/203259287-da473118-57ae-4487-bf6e-a0fb1f79a74b.png)
+
+    
