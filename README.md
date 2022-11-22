@@ -20,3 +20,9 @@ Ambil elemen terakhir
 Ubah elemen ke - 4 dengan nilai 
 
 Ubah elemen ke - 4 dengan elemen terakhi
+
+# Tambah elemen list:
+
+Ambil 2 bagian dari list pertama (A) dan jadikan list ke -2 (B)
+
+Tambah list B dengan nilai string Tambah list B dengan 3 nilai Gabungkan list B dengan
