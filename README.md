@@ -46,16 +46,27 @@ while True:
 
 
 nama = input('Nama : ')
+
 NAMA.append(nama)
+
 nim = int(input('NIM : '))
+
 NIM.append(nim)
+
 nTugas = float(input('Nilai Tugas : '))
+
 Tugas.append(nTugas)
+
 uts = float(input('Nilai UTS : '))
+
 UTS.append(uts)
+
 uas = float(input('Nilai UAS : '))
+
 UAS.append(uas)
+
 nAkhir = (int(nTugas) * .3) + (int(uts) * .35) + (int(uas) * .35)
+
 Total.append(nAkhir)
 
 Membuat program pilihan (Y/T)?, yakni ketika kita menginputkan Y, maka kita akan diminta untuk mengisi data kembali. Tetapi ketika kita 
